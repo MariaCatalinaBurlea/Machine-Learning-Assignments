@@ -1,0 +1,6 @@
+commit,parent1,parent2,ancestor,is pr,added lines,deleted lines,devs parent1,devs parent2,time,nr files,added files,deleted files,renamed files,copied files,modified files,nr commits1,nr commits2,density1,density2,fix,bug,feature,improve,document,refactor,update,add,remove,use,delete,change,messages_min,messages_max,messages_mean,messages_median,avg_density
+6025,17050,5716,7420,0,0,0,5,4,71,3,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,2,0,0,2,0,0,34,216,94.25,88.0,0.0
+5821,11518,22459,6694,0,0,0,1,5,671,4,0,0,0,0,2,1,9,0,0,0,0,0,0,0,0,3,0,0,0,0,0,18,62,41.66666666666667,39.0,0.0
+17347,12916,16127,567,0,2,0,1,1,4,4,0,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,81,99,87.5,85.0,0.0
+17440,14153,24931,4789,1,5,5,3,1,12,1,0,0,0,0,5,12,3,0,0,0,0,0,0,0,1,0,0,1,0,0,1,28,70,50.166666666666664,59.5,0.0
+6559,5549,2936,6120,1,12,1,3,1,1380,1,0,0,0,0,2,10,2,0,0,3,2,0,0,0,0,0,1,0,0,0,0,77,161,121.2,122.5,0.0

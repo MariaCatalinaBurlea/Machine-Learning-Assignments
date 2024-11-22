@@ -1,0 +1,23 @@
+Please read the instructions carefully. If you fail to comply with any of the requirements, you risk that your assignment is graded with 1. For this assignment, you will work individually.
+
+Each student must present his/her project in front of the TA in the next lab hour after the deadline. 
+
+You are asked to implement in TENSORFLOW at least one classifier that solves the task of predicting a conflict in software projects, in case of concurrent commits. The dataset to be used is the same as for A1 and is available here . 
+
+The metric you want to improve depends on you FIRST NAME: 
+
+ - if your first name starts with any letter between A and K, you'll have to improve Recall
+
+ - if your first name starts with any letter between L and Z, you'll have to improve Precision 
+
+(e.g., Barack Hussein Obama would pursue Recall, while Lyndon Baines Johnson should try to improve Precision)
+
+Goals:
+
+a) (2p) data preprocessing
+
+b) (7p) model selection, evaluation on the training set and optimization; underfitting and overfitting avoidance; evaluation on the test set
+
+Deliverable:
+
+One jupyter notebook containing all the required steps implemented in Tensorflow and explanations+results (code and markdown cells respectively). The notebook name should be the same as the name of the author (surname first) will be uploaded on moodle before the deadline. For example, if the author is Ioana Popescu, the notebook should be called PopescuIoana.ipynb . Your notebook must be developed in such a way that the TA can smoothly run it on Ubuntu Linux with no further adjustment needed.
